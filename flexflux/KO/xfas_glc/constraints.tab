@@ -1,0 +1,65 @@
+obj : MAX(R_DM_BIOMASS_c)
+
+R_EX_gal_e 0.0
+
+R_EX_asp_L_e 0.0
+
+R_EX_pro_L_e 0.0
+
+R_EX_tre_e 0.0
+
+R_EX_man_e 0.0
+
+R_EX_glyc_e 0.0
+
+R_EX_xyl_D_e 0.0
+
+R_EX_glu_L_e 0.0
+
+R_EX_mal_L_e 0.0
+
+R_EX_rib_D_e 0.0
+
+R_EX_fru_e 0.0
+
+R_EX_ac_e 0.0
+
+R_EX_glc_D_e 13.53
+
+R_EX_asn_L_e 0.0
+
+R_EX_uri_e 0.0
+
+R_EX_adn_e 0.0
+
+R_EX_cit_e 0.0
+
+R_EX_inost_e 0.0
+
+R_EX_gly_glu_L_e 0.0
+
+R_EX_ala_L_e 0.0
+
+R_EX_acac_e 0.0
+
+R_EX_lyx_L_e 0.0
+
+R_EX_pyr_e 0.0
+
+R_EX_dextrin_e 0.0
+
+R_EX_4abut_e 0.0
+
+R_EX_gam_e 0.0
+
+R_EX_arg_L_e 0.0
+
+R_EX_his_L_e 0.0
+
+R_EX_orn_e 0.0
+
+R_EX_chitin_polymer_e 0.0
+
+R_EX_gln_L_e 0.0
+
+R_ATPM 3.073
