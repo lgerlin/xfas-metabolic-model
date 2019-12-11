@@ -1,0 +1,1827 @@
+FBA result
+
+obj : 0.773382
+R_GLUPRT	0.269381
+R_METTRS	0.133067
+R_EX_glu_L_e	0.0
+R_GLUCYS	1.93E-4
+R_DM_MEOH	2.0E-6
+R_PSD160	0.053347
+R_3HAD60	0.320992
+R_QULNS	0.001968
+R_PSD161	0.041492
+R_2MAHMP	0.0
+R_ORNtpp	0.0
+R_EX_URA_e	0.0
+R_USHDXF	2.94E-4
+R_PPBNGS	0.002316
+R_DAAD	0.0
+R_3HAD80	0.320992
+R_GLNTRS	0.281024
+R_MOAT2XF	2.94E-4
+R_IPPS	0.48049
+R_KARA1	-0.861458
+R_2KMBT	0.005828
+R_ASPTA	-2.663451
+R_PAPSR	0.0
+R_IPDPS	0.002215
+R_THZPSN3	1.93E-4
+R_FGLU	0.0
+R_GLYTRS	0.341149
+R_14GLUCANabcpp	0.0
+R_BTS5	2.0E-6
+R_MTRI	0.005828
+R_Niabcpp	0.0
+R_THDPS	0.319907
+R_KARA2	0.289653
+R_14GLUCANtex	0.0
+R_TRPTRS	0.069384
+R_INSTtex	0.0
+R_SERTRS	0.276245
+R_PROTRS	0.2346
+R_MDRPDr	0.005828
+R_3HAD40	0.320992
+R_ADSK	0.0
+R_ADSS	0.231833
+R_DADK	0.0
+R_UAGAATXF	5.88E-4
+R_NTP10	0.0
+R_RPI	-0.701109
+R_RPE	-0.702469
+R_ANS	0.069384
+R_IPMDr	0.48049
+R_FBP	0.0
+R_ORNtex	0.0
+R_PIuabcpp	2.244315
+R_O2tex	24.708354
+R_GLUTRS	0.244771
+R_GLUTRR	0.004632
+R_MDDCP4pp	0.00465
+R_PMEACPE	2.0E-6
+R_ADK1	99999.0
+R_GRTT	4.34E-4
+R_FBA	0.278268
+R_ADK3	-99982.759942
+R_ACOATA	0.320992
+R_ADK4	0.0
+R_APRAUR	3.86E-4
+R_S2FE2ST	2.1E-5
+R_GDPDPK	0.0
+R_S2FE2SS	2.35E-4
+R_S2FE2SR	2.0E-6
+R_MECDPDH5	0.002649
+R_GAPD	9.989032
+R_PPPGO	3.86E-4
+R_PSP_L	0.0
+R_ZN2t3pp	-2.8E-4
+R_PG181abcpp	0.00522
+R_DM_E4P	0.266872
+R_DCTPD	0.0
+R_GLYKr	0.007748
+R_GLUt4pp	0.0
+R_DTMPK	0.02533
+R_SUCOAS	-3.513137
+R_NNAMr	0.0
+R_G3PD5	0.0
+R_GTPCI	7.72E-4
+R_G3PD2	-0.195254
+R_ARGtex	0.0
+R_UDPGLCUR4EP	1.299896
+R_PTPAT	4.98E-4
+R_GRXR	0.107105
+R_EX_o2_e	24.708354
+R_ACCOACr	2.30159
+R_URAtex	0.0
+R_PRAIS	0.269381
+R_EX_cobalt2_e	2.1E-5
+R_SULabcpp	0.003566
+R_DMQMT	1.93E-4
+R_ASPO5	0.0
+R_UAGCVT	0.023829
+R_ASPO3	0.001968
+R_EX_h2o_e	-58.813803
+R_Actex	99999.0
+R_UHGADAXF	5.88E-4
+R_ASPO6	0.0
+R_EX_co2_e	-26.13477
+R_PSD181	0.021385
+R_OMBZLM	1.93E-4
+R_THRTRS	0.343479
+R_PRAGSr	0.269381
+R_PGPP160	0.019916
+R_PGPP161	0.01549
+R_TMPKr	0.0
+R_DM_FRMD	0.0
+R_MLDCP3App	0.001162
+R_EX_fru_e	16.67
+R_G5SD	0.2346
+R_ALATRS	0.533088
+R_UGLT	0.0
+R_AGDI_1	0.034577
+R_ALAt2pp	0.0
+R_MMSAD3	0.0
+R_LYSt3r	0.0
+R_3OAS120	0.147701
+R_3OAS121	0.172701
+R_DM_LesA_e	0.002405
+R_PGPP181	0.007984
+R_PGAMT	-0.048246
+R_SDPDS	0.319907
+R_EPStexXF	1.296
+R_LPSS2XF	7.4E-5
+R_KAS14	0.320992
+R_GALKr	0.0
+R_KAS15	0.0
+R_MPTG	0.011624
+R_UAGPT3	0.023829
+R_3OAS100	0.32099
+R_UAGDP	0.048246
+R_ACCITRH	0.0
+R_EX_chitin_polymer_e	0.0
+R_ADEt2rpp	-0.005828
+R_DASYN181	0.029369
+R_GLYCt	0.0
+R_ADEtex	-0.005828
+R_PGP181abcpp	0.0
+R_COBALT2tex	2.1E-5
+R_GLYCL	0.096917
+R_HBZOPT	1.93E-4
+R_MLDCP2Bpp	0.0
+R_DM_BIOMASS_c	0.773382
+R_SO3abcpp	0.211519
+R_OGMEACPD	2.0E-6
+R_EX_k_e	0.160457
+R_PG161abcpp	0.010128
+R_RBKr	0.0
+R_UAMAGS	0.023829
+R_THRS	0.554876
+R_DASYN160	0.073262
+R_DASYN161	0.056982
+R_O2tpp	24.708354
+R_ASP1DC	4.98E-4
+R_OGMEACPS	2.0E-6
+R_OGMEACPR	2.0E-6
+R_NNATr	0.001968
+R_PGPP160pp	0.0
+R_EX_gam_e	0.0
+R_INOSTt2pp	0.0
+R_CMPA_1	0.034577
+R_BPNT	0.0
+R_CBPS	0.564064
+R_MOBDabcpp	6.0E-6
+R_ARGabcpp	0.0
+R_ILETA	-0.289653
+R_FE3abcpp	0.0
+R_LIPOCT	3.0E-6
+R_SHCHF	1.93E-4
+R_EX_fe3_e	0.006418
+R_NADDP	0.0
+R_NMNATr	0.0
+R_CS	7.875255
+R_FUM	7.591002
+R_TYRTRS	0.171827
+R_PGP161abcpp	0.0
+R_3OAS181	0.058738
+R_DHAPT	0.0
+R_MALCOAMT	2.0E-6
+R_GLU5K	0.2346
+R_AIRC2r	0.269188
+R_RBFK	1.93E-4
+R_TMPPP	1.93E-4
+R_FCLT	3.86E-4
+R_ADSL2r	0.269188
+R_3OAS160	0.146525
+R_3OAS161	0.172701
+R_PRATPP	0.105353
+R_DAPE	0.319907
+R_ORPT	-0.255023
+R_ADSL1r	0.231833
+R_DHNPA2	7.72E-4
+R_3OAS140	0.146525
+R_3OAS141	0.172701
+R_ALATA_D2	0.0
+R_EPSsynthXF	1.296
+R_SDPTA	-0.319907
+R_MANptspp	0.0
+R_ALAt2tex	0.0
+R_EAR181x	0.058738
+R_PRMICI	0.105353
+R_PRFGS	0.269381
+R_NTPP2	0.0
+R_NTPP1	0.0
+R_ASPTRS	0.237965
+R_PRAI	0.069384
+R_NAMNPP	0.0
+R_GDPTPDP	0.0
+R_RIBtex	0.0
+R_DM_ADE	0.005828
+R_PTRCt2pp	0.0
+R_EGMEACPR	2.0E-6
+R_EPStppXF	1.296
+R_KDOPS	5.88E-4
+R_KDOPP	5.88E-4
+R_ME2	0.0
+R_DHAD2	0.289653
+R_UPP3S	5.79E-4
+R_DHAD1	0.861458
+R_NADS2	0.001968
+R_U23GAATXF	5.88E-4
+R_MDH	10.538706
+R_TDSKXF	2.94E-4
+R_DPCOAK	4.98E-4
+R_CYSSr2	0.0
+R_ASPt2_3pp	0.0
+R_CYSTRS	0.076468
+R_EX_pi_e	2.244315
+R_CITt10	0.0
+R_G6PDA	0.0
+R_CO2tpp	-26.13477
+R_IMPC	-0.374541
+R_IMPD	0.142708
+R_NTP5	0.0
+R_NTP1	0.0
+R_NTP3	0.0
+R_ASPCTn	0.255023
+R_PYNP2r	0.0
+R_METOX2s	0.0
+R_IGPDH	0.105353
+R_NTPP8	0.0
+R_NTPP7	0.0
+R_NTPP9	0.0
+R_NTPP4	0.0
+R_NTPP3	0.0
+R_NTPP6	0.0
+R_NTPP5	0.0
+R_PG160abcpp	0.013022
+R_AMAOTr	2.0E-6
+R_METOX1s	0.0
+R_HSERTA	0.211519
+R_MLDEP2pp	0.0
+R_PPNCL2	4.98E-4
+R_EAR140x	0.146525
+R_UDPGDr	1.323563
+R_INSEPIH	0.0
+R_DHORTS	-0.255023
+R_PRASCS	0.269188
+R_GLNtex	0.0
+R_EX_arg_L_e	0.0
+R_AGPAT160	0.073262
+R_AGPAT161	0.056982
+R_EAR141x	0.172701
+R_HEX1	0.0
+R_PFK_3	0.0
+R_DMPPS	4.34E-4
+R_PTRCabcpp	0.0
+R_THFAT	0.0
+R_LIPOS	3.0E-6
+R_AGPAT181	0.029369
+R_UPP3MT	1.93E-4
+R_XYLI1	0.0
+R_XYLK	0.0
+R_P5CD1p	0.0
+R_FOMETR	0.0
+R_TDPGDH	0.162217
+R_DXPRIi	0.002649
+R_THRD_L	0.211396
+R_DNTPPA	7.72E-4
+R_VALTRS	0.380471
+R_EX_man_e	0.0
+R_DGLUISO	0.0
+R_ACt4pp	99999.0
+R_MDDEP1pp	0.0
+R_CLtpp	0.004279
+R_EX_so4_e	0.003566
+R_PROabcpp	0.0
+R_UAPGR	0.023829
+R_ICL	2.947897
+R_CHORS	0.435404
+R_CHORM	0.364863
+R_MDH2	0.0
+R_PMPK	1.93E-4
+R_NTD7	0.0
+R_NTD2	0.0
+R_DBTSr	2.0E-6
+R_TMDS	0.02533
+R_ARGN	0.0
+R_ATPPRTr	0.105353
+R_MDDCP5pp	0.0
+R_PROD2	0.0
+R_EAR100x	0.147701
+R_MNabc_1	0.0
+R_ACONTa	7.875255
+R_ACONTb	7.875255
+R_3OAR160	0.146525
+R_EX_pro_L_e	0.0
+R_3OAR161	0.172701
+R_TRDR	0.0
+R_EAR40x	0.320992
+R_EX_ca2_e	0.004279
+R_EDTXS3XF	2.94E-4
+R_3OAR140	0.146525
+R_3OAR141	0.172701
+R_GLUabcpp	0.0
+R_FRUpts2	16.67
+R_ACHBS	0.289653
+R_ANPRT	0.069384
+R_3OAR120	0.147701
+R_FTHFD	0.0
+R_3OAR121	0.172701
+R_LPSS1XF	7.4E-5
+R_MECDPS	0.002649
+R_OXOGAH	0.005828
+R_6PDDGLUCA	0.0
+R_CLPNS181pp	0.001426
+R_CU2tpp	5.83E-4
+R_PAPSR2	0.0
+R_PGPP161pp	0.0
+R_EDD	10.26584
+R_EDA	10.26584
+R_PROT_LesA_BioS	0.002405
+R_SHCHD2	1.93E-4
+R_LPSabctpp	7.4E-5
+R_3OAR100	0.32099
+R_FE2abcpp	0.0
+R_DNMPPA	7.72E-4
+R_OCTDPS	1.93E-4
+R_MDDCP1pp	0.004708
+R_GF6PTAr	0.048246
+R_OHPHM	1.93E-4
+R_EX_asp_L_e	0.0
+R_ILETRS	0.289653
+R_CPPPGO	3.86E-4
+R_ALATA_L2	0.0
+R_ALAALAr	0.020981
+R_LEUTA	0.48049
+R_DHORD2	0.255023
+R_MOBDtex	6.0E-6
+R_EX_h_e	10.085605
+R_PGSA181	0.007984
+R_EAR80x	0.320992
+R_AHC	9.67E-4
+R_EX_cl_e	0.004279
+R_EX_his_L_e	0.0
+R_AIRC3	-0.269188
+R_PGSA160	0.019916
+R_CLtex	0.004279
+R_PGSA161	0.01549
+R_FLDR2	0.002649
+R_ARGSL	0.30904
+R_PYRt2rtex	0.0
+R_HSDy	-0.766394
+R_ARGSSr	0.30904
+R_LEUTRS	0.48049
+R_ACS	0.521147
+R_DHDPS	0.319907
+R_GTHP	0.0
+R_GTHS	1.93E-4
+R_3OAR181	0.058738
+R_E4PD	1.93E-4
+R_AKGDH	3.833129
+R_Htex	-99988.914395
+R_RIBabcpp	0.0
+R_HISabcpp	0.0
+R_IZPN	0.0
+R_ENO	8.741282
+R_CO2tex	-26.13477
+R_PERD	1.93E-4
+R_CYSTGL	0.078257
+R_PRAMPC	0.105353
+R_CU2tex	5.83E-4
+R_DXPS	0.003035
+R_NADH16pp	42.365087
+R_ASPK	1.086301
+R_G1PTT	0.162217
+R_PPS	8.823944
+R_SULtex	-0.003566
+R_PPM	0.0
+R_GLCptspp	0.0
+R_GLYCtpp	-0.007748
+R_UDP4KPS	0.023667
+R_ASNN	0.0
+R_3OAR40	0.320992
+R_ACOCMT	0.0
+R_PPA	0.0
+R_TRPS3r	0.069384
+R_GLNS	10.000865
+R_CHTNA2	0.0
+R_DM_DAD_5	7.0E-6
+R_DM_FOR	0.008144
+R_NAabcO	0.0
+R_GTPDPK	0.0
+R_ARGDC	0.034577
+R_MALS	2.947704
+R_UDCPDPpp	0.0
+R_MLDEP1pp	0.001162
+R_3OAR60	0.320992
+R_ASPT	0.0
+R_PGCDr	1.24775
+R_DUTPDP	0.02533
+R_MCTP2App	5.81E-4
+R_Mntex	5.68E-4
+R_ASPt2_2pp	0.0
+R_ALATA_L	-0.576802
+R_MOHMT	4.98E-4
+R_ABUTtex	0.0
+R_AGDC_r	0.0
+R_ASNS1	0.271635
+R_METAT	0.006996
+R_3OAR80	0.320992
+R_MOATXF	2.94E-4
+R_SBPA	0.0
+R_AOXSr2	2.0E-6
+R_HSTPTr	0.105353
+R_FADRx2	0.0
+R_DM_GCALD	7.72E-4
+R_AP4AS	0.0
+R_LPADSSXF	2.94E-4
+R_AICART	0.374541
+R_PPNDH	0.193036
+R_COBALT2t3pp	-2.1E-5
+R_MPTG2	5.81E-4
+R_PYK	0.0
+R_BHEXAMD_p	0.0
+R_IG3PS	0.105353
+R_MCTP1Bpp	0.001162
+R_CYTK1	0.163348
+R_TRPS2	0.069384
+R_CYTK2	0.0
+R_PNTK	4.98E-4
+R_PAPPT3	0.023829
+R_P5CG	0.2346
+R_P5CD	0.0
+R_DGK1	0.0
+R_PHETRS	0.193036
+R_UAMAS	0.023829
+R_ADNUC	0.0
+R_XYLtex	0.0
+R_P5CR	0.2346
+R_LYSTRS	0.296077
+R_GLUDxi	0.0
+R_OCBT	0.30904
+R_MEPCT	0.002649
+R_ADMDCr	0.005828
+R_MDDEP2pp	0.0
+R_PGP160abcpp	0.0
+R_MTHFR2	0.134421
+R_G1PACT	0.048246
+R_PANTS	4.98E-4
+R_PSP	1.24775
+R_EX_nh4_e	9.547501
+R_HCO3E	3.134842
+R_OPHBDC	1.93E-4
+R_ACt2rex	99999.0
+R_UDPG4E	0.0
+R_AKP1	0.0
+R_ICYSDS	1.93E-4
+R_CLPNS160pp	0.003556
+R_UGMDDS	0.023829
+R_PSSA161	0.041492
+R_PSSA160	0.053347
+R_FORtppi	0.008144
+R_Kt2tex	0.160457
+R_PE160abcpp	0.03841
+R_EX_so3_e	0.211519
+R_TREHpp	0.0
+R_FE2tex	0.006997
+R_DM_AMOB	2.0E-6
+R_PSSA181	0.021385
+R_NAt3_1	99999.0
+R_IPPMIb	-0.48049
+R_IPPMIa	-0.48049
+R_UREA	0.0
+R_PRPPS	0.701109
+R_HPPK2	7.72E-4
+R_UDCPDPtppi	0.0
+R_EX_rib_D_e	0.0
+R_MDDCP2pp	5.81E-4
+R_CHRPL	1.93E-4
+R_CITt3tex	0.0
+R_GTPCII2	3.86E-4
+R_DAPDC	0.296077
+R_NMNN	0.0
+R_DKGLUCK	0.0
+R_PMDPHT	3.86E-4
+R_S2FE2SS2	2.17E-4
+R_MLDCP1App	5.23E-4
+R_URCN	0.0
+R_HEMEOS	1.93E-4
+R_ACOTA	-0.30904
+R_DHPS2	7.72E-4
+R_SADT2	0.0
+R_GLCtex	0.0
+R_NACODA	0.0
+R_EX_tre_e	0.0
+R_OPMEACPR	2.0E-6
+R_OPMEACPS	2.0E-6
+R_PROT_pe_LesA	0.002405
+R_THIORDXi	0.0
+R_ARGTRS	0.274463
+R_EPMEACPR	2.0E-6
+R_UMPK	1.575147
+R_EX_dextrin_e	0.0
+R_OPMEACPD	2.0E-6
+R_METSr	0.134228
+R_GLUN	0.0
+R_GLUR	-0.023829
+R_UDCPDPS	4.8E-5
+R_ABTA	0.0
+R_ACGAMABCt	0.0
+R_DHPPDA2	3.86E-4
+R_ADNK1	9.67E-4
+R_RNDR4b	0.02533
+R_EX_inost_e	0.0
+R_MAN6PI	-1.296294
+R_ASADH	1.086301
+R_DPR	4.98E-4
+R_PROt2rpp	0.0
+R_GHMT2r	0.70764
+R_RNDR3b	0.028222
+R_EX_4abut_e	0.0
+R_HSK	0.554876
+R_GLUtex	0.0
+R_PROT_cp_LesA	0.002405
+R_RNDR2b	0.028222
+R_EX_pyr_e	0.0
+R_URAt2pp	0.0
+R_PPK2r	0.0
+R_PROtex	0.0
+R_EX_mobd_e	6.0E-6
+R_RNDR1b	0.02533
+R_UPPDC1	3.86E-4
+R_PYRt2rpp	0.0
+R_T2DECAI	0.172701
+R_OMMBLHX	1.93E-4
+R_MEOHtex	-2.0E-6
+R_MG2tpp	0.0
+R_HISTRS	0.105353
+R_OPHHX	1.93E-4
+R_KDOCT2	5.88E-4
+R_RNDR2	0.0
+R_RNDR1	0.0
+R_RNDR4	0.0
+R_RNDR3	0.0
+R_UAAGDS	0.023829
+R_MDDEP3pp	0.00465
+R_NH4tex	-9.547501
+R_3HAD121	0.172701
+R_3HAD120	0.146525
+R_COBALT2tpp	0.0
+R_MN2t3pp	-5.68E-4
+R_NADK	3.86E-4
+R_ORNTA	0.0
+R_PMANM	-1.296294
+R_CYSTS	0.078257
+R_MCOATA	2.301562
+R_DHQD	0.435404
+R_ALAR	0.020981
+R_UDCPPtppi	0.0
+R_EX_glc_D_e	0.0
+R_DHQS	0.435404
+R_3HAD100	0.320402
+R_EX_gln_L_e	0.0
+R_OMPDC	0.255023
+R_METSOXR2	0.0
+R_METSOXR1	0.0
+R_EX_cit_e	0.0
+R_INS2D	0.0
+R_EAR160x	0.146525
+R_3OAS60	0.320992
+R_ATPM	3.0731
+R_CA2tpp	0.004279
+R_PPA2	0.0
+R_DMATT	4.34E-4
+R_PPGPPDP	0.0
+R_EAR161x	0.172701
+R_MCTP1App	0.00988
+R_DHDPRy	0.319907
+R_SUCD1	6.68E-4
+R_HISTP	0.105353
+R_NMNDA	0.0
+R_XF_Biomass	0.773382
+R_GARFT	0.269381
+R_3OAS80	0.320992
+R_H2Otex	-58.813803
+R_EX_ac_e	0.0
+R_HISTD	0.105353
+R_SUCDi	6.780272
+R_ATPS4rpp	83.655764
+R_CPPPGO2	0.0
+R_EX_xyl_D_e	0.0
+R_ACt2rpp	-99999.0
+R_PGMT	-4.078883
+R_FORtex	-0.008144
+R_TDPDRE	0.162217
+R_ACODA	0.30904
+R_G6PDH2r	10.26584
+R_TDPDRR	0.162217
+R_PItex	2.244315
+R_EX_mn2_e	5.68E-4
+R_SCYSDS	9.05E-4
+R_NNDPR	0.001968
+R_SHK3Dr	0.435404
+R_ACGK	0.30904
+R_MNt2pp	0.0
+R_ACGS	0.30904
+R_MG2tex	-0.007131
+R_UDCPDP	0.023829
+R_CA2tex	0.004279
+R_AGPR	-0.30904
+R_XYLabcpp	0.0
+R_EX_ala_L_e	0.0
+R_A5PISO	5.88E-4
+R_GLNabc	0.0
+R_3HAD181	0.058738
+R_PE161abcpp	0.029874
+R_DHFR	0.026102
+R_DHFS	7.72E-4
+R_CHTNtex	0.0
+R_AMPMS2	1.93E-4
+R_MDDCP3pp	0.0
+R_Kt2pp	0.160457
+R_ASNTRS	0.271635
+R_CYTBO3_4pp	49.402351
+R_EAR120x	0.146525
+R_DM_EPS_XF_e	1.296
+R_dextrin_DEC_e_	0.0
+R_MAN1PT2r	1.296294
+R_FE2t2pp	0.006997
+R_3HAD161	0.172701
+R_3HAD160	0.146525
+R_EAR121x	0.172701
+R_GALt2	0.0
+R_ATPHs	0.0
+R_NDPK4	0.187548
+R_ACLS	0.861458
+R_NDPK5	0.028222
+R_SSALy	0.0
+R_MG2t3_2pp	0.007131
+R_NDPK2	4.194605
+R_ARGt2rpp	0.0
+R_NDPK3	0.135126
+R_NDPK1	-99982.407205
+R_EX_lys_L_e	0.0
+R_NDPK8	0.02533
+R_NDPK6	0.02533
+R_NDPK7	0.028222
+R_3HAD141	0.172701
+R_3HAD140	0.146525
+R_FE3Gabcpp	0.006418
+R_GLCGSD_c	0.0
+R_H2SO	0.0
+R_PDX5PS	1.93E-4
+R_PSERTr	1.24775
+R_SPMS	0.005828
+R_CTPS2	0.133092
+R_PDX5PO	1.93E-4
+R_MTHFD	0.644115
+R_MTHFC	0.644115
+R_OHPBAT	1.93E-4
+R_GTHOr	0.107105
+R_ZN2tex	-2.8E-4
+R_DCTPD2	0.0
+R_FE3tex	0.006418
+R_GLUt2rpp	0.0
+R_G3PAT161	0.056982
+R_PPKr	-12.132447
+R_CDPMEK	0.002649
+R_G3PAT160	0.073262
+R_IGPS	0.069384
+R_ALAALAabcpp	0.002848
+R_S4FE4SR	2.17E-4
+R_S4FE4ST	2.17E-4
+R_TREtex	0.0
+R_GMPS2	0.142708
+R_PYAM5POr	0.0
+R_SO3tex	0.211519
+R_EX_zn2_e	2.8E-4
+R_CLPNS161pp	0.002766
+R_H2Otpp	-58.831239
+R_EX_mg2_e	0.007131
+R_DHGLYH	-1.93E-4
+R_DB4PS	7.72E-4
+R_MLDCP2App	0.0
+R_PGPP181pp	0.0
+R_HISDr	0.0
+R_AHSERL2	0.211519
+R_EX_fe2_e	0.006997
+R_HIStex	0.0
+R_INSDH	0.0
+R_RBFSb	3.86E-4
+R_EX_ni2_e	2.65E-4
+R_HMBS	5.79E-4
+R_RBFSa	7.72E-4
+R_MTAP	0.005828
+R_OMPHHX	1.93E-4
+R_NH4tpp	9.547501
+R_EDTXS1XF	2.94E-4
+R_SERAT	0.0
+R_PPND	0.171827
+R_GK1	0.142708
+R_G3PAT181	0.029369
+R_TDP	-1.93E-4
+R_ABUTt2pp	0.0
+R_ADCL	7.72E-4
+R_ADCS	7.72E-4
+R_CAT	9.6E-5
+R_NADPPPS	0.0
+R_PE181abcpp	0.015397
+R_GALU	3.916666
+R_EX_orn_e	0.0
+R_PFK	0.278268
+R_SHKK	0.435404
+R_OAADC	0.0
+R_DALAt2pp	0.020981
+R_MLDCP1Bpp	0.0
+R_EX_cu2_e	5.83E-4
+R_GAMptspp	0.0
+R_ICDHyr2	4.927358
+R_ICDHyr1	4.927358
+R_SULRi	0.211519
+R_AP4AHr	0.0
+R_TPI	0.081045
+R_EX_gal_e	0.0
+R_G1SAT	0.004632
+R_PSCVT	0.435404
+R_CITt3pp	0.0
+R_PGM	-8.741282
+R_PGL	10.26584
+R_PGK	-9.989032
+R_GLCt2	0.0
+R_PGI	-14.344723
+R_FMNAT	1.93E-4
+R_DDPA	0.435404
+R_EX_glyc_e	0.0
+R_GLUSy	7.83803
+R_MEOHtrpp	-2.0E-6
+R_MANtex	0.0
+R_EAR60x	0.320992
+R_NI2t3tex	-2.65E-4
+R_MOPG	0.48049
+R_TKT2	-0.702469
+R_TKT1	0.0
+R_PHETA1	-0.193036
+R_DKMPPD	0.005828
+R_VALTA	-0.380471
+R_PPCDC	4.98E-4
+R_NI2t3pp	-2.65E-4
+R_PDH	15.269931
+R_TYRTA	-0.171827
+R_ALKP	0.0
+R_ASPt2_2tex	0.0
+R_UDPXYLS	0.023667
+R_AACPS4 (Dead)	0.0
+M_3ohexACP_c	Not Constrained
+R_ADNt2pp (Dead)	0.0
+M_orn_p	Not Constrained
+M_glu_D_c	Not Constrained
+M_ni2_p	Not Constrained
+M_pe160_c	Not Constrained
+M_hexACP_c	Not Constrained
+M_pe160_p	Not Constrained
+M_ni2_e	Not Constrained
+M_ni2_c	Not Constrained
+M_3dhq_c	Not Constrained
+M_hisp_c	Not Constrained
+R_CD2tex (Dead)	0.0
+M_5aprbu_c	Not Constrained
+R_METSOX2tex (Dead)	0.0
+R_HMPK1 (Dead)	0.0
+R_FEENTERtonex (Dead)	0.0
+M_orn_c	Not Constrained
+M_valtrna_c	Not Constrained
+M_orn_e	Not Constrained
+M_malcoame_c	Not Constrained
+M_ppp9_c	Not Constrained
+R_PA181abcpp (Dead)	0.0
+M_LesA_e	Not Constrained
+M_LesA_c	Not Constrained
+M_3c3hmp_c	Not Constrained
+R_DSERDHr (Dead)	0.0
+M_kdo8p_c	Not Constrained
+R_DHNCOAT (Dead)	0.0
+R_5DGLCNR (Dead)	0.0
+R_COLIPAabcpp (Dead)	0.0
+M_but2eACP_c	Not Constrained
+R_QUIN2tpp (Dead)	0.0
+M_LesA_p	Not Constrained
+R_ENOPH (Dead)	0.0
+R_LYSabcpp (Dead)	0.0
+M_ac_p	Not Constrained
+M_trnaasn_c	Not Constrained
+M_gthox_c	Not Constrained
+M_trnaleu_c	Not Constrained
+M_trnalys_c	Not Constrained
+R_AGM3Pt2pp (Dead)	0.0
+M_acorn_c	Not Constrained
+R_MICITDr (Dead)	0.0
+R_H2tpp (Dead)	0.0
+R_FACOAE180 (Dead)	0.0
+M_10fthf_c	Not Constrained
+R_PA161abcpp (Dead)	0.0
+M_dtdpglu_c	Not Constrained
+M_5mdr1p_c	Not Constrained
+R_AGPAT141 (Dead)	0.0
+M_udcpdp_c	Not Constrained
+M_mg2_c	Not Constrained
+M_4fe4s_c	Not Constrained
+M_mg2_e	Not Constrained
+R_CLPNS141pp (Dead)	0.0
+M_amet_c	Not Constrained
+M_chitin_polymer_e	Not Constrained
+M_air_c	Not Constrained
+M_mg2_p	Not Constrained
+R_PGPP180 (Dead)	0.0
+M_BIOMASS_XF_c	Not Constrained
+M_2ins_c	Not Constrained
+R_H2O2tpp (Dead)	0.0
+M_prbamp_c	Not Constrained
+M_ac_c	Not Constrained
+M_udcpdp_p	Not Constrained
+M_ac_e	Not Constrained
+R_AHSERL3 (Dead)	0.0
+R_ARGDCpp (Dead)	0.0
+M_chtbs_e	Not Constrained
+R_MLTGY1pp (Dead)	0.0
+R_PA141abcpp (Dead)	0.0
+M_chtbs_p	Not Constrained
+M_octeACP_c	Not Constrained
+M_orot_c	Not Constrained
+R_2THZPSN (Dead)	0.0
+M_prbatp_c	Not Constrained
+M_cdp_c	Not Constrained
+M_for_p	Not Constrained
+R_SLNTtex (Dead)	0.0
+R_DDCAtex (Dead)	0.0
+R_CDGS (Dead)	0.0
+M_pa181_c	Not Constrained
+R_CMtpp (Dead)	0.0
+M_his_L_p	Not Constrained
+R_GMAND (Dead)	0.0
+M_his_L_e	Not Constrained
+M_his_L_c	Not Constrained
+R_MPTSS (Dead)	0.0
+M_ps160_c	Not Constrained
+M_accitr_c	Not Constrained
+R_DASYN141 (Dead)	0.0
+R_G3PItex (Dead)	0.0
+M_glucys_c	Not Constrained
+M_octapb_c	Not Constrained
+R_FACOAE161 (Dead)	0.0
+M_pheme_c	Not Constrained
+M_3hoctACP_c	Not Constrained
+R_CPH4S (Dead)	0.0
+R_DAGK161 (Dead)	0.0
+R_MSO3tex (Dead)	0.0
+M_hmbil_c	Not Constrained
+M_cys_L_c	Not Constrained
+R_FMNRx2 (Dead)	0.0
+M_leutrna_c	Not Constrained
+M_argsuc_c	Not Constrained
+R_NTD8 (Dead)	0.0
+M_pydx5p_c	Not Constrained
+R_THRAr (Dead)	0.0
+R_MINCYCtpp (Dead)	0.0
+R_INDOLEtex (Dead)	0.0
+R_AMPTASECG (Dead)	0.0
+M_trnatrp_c	Not Constrained
+M_EPS_XF_p	Not Constrained
+R_THYMt3pp (Dead)	0.0
+R_NOVBCNtpp (Dead)	0.0
+M_glx_c	Not Constrained
+M_g1p_c	Not Constrained
+M_dtdp4d6dm_c	Not Constrained
+M_2omhmbl_c	Not Constrained
+M_tddec2eACP_c	Not Constrained
+M_trnagln_c	Not Constrained
+M_EPS_XF_e	Not Constrained
+R_LACZ (Dead)	0.0
+M_3hdecACP_c	Not Constrained
+M_EPS_XF_c	Not Constrained
+M_sufse_c	Not Constrained
+M_3pg_c	Not Constrained
+M_udpxyl_c	Not Constrained
+M_lipidAds_XF_c	Not Constrained
+M_3hcddec5eACP_c	Not Constrained
+R_TDSR2 (Dead)	0.0
+R_X5PL3E (Dead)	0.0
+R_THYMtex (Dead)	0.0
+M_r1p_c	Not Constrained
+M_u3hga_XF_c	Not Constrained
+M_adp_c	Not Constrained
+M_pan4p_c	Not Constrained
+M_ump_c	Not Constrained
+R_G3PAT140 (Dead)	0.0
+R_AGM4PCPpp (Dead)	0.0
+R_DAGK180 (Dead)	0.0
+M_acgam1p_c	Not Constrained
+R_DSBDR (Dead)	0.0
+R_GLTN2pp (Dead)	0.0
+M_pg161_c	Not Constrained
+M_aps_c	Not Constrained
+M_cu2_e	Not Constrained
+M_cu2_c	Not Constrained
+R_CU1Opp (Dead)	0.0
+M_pg161_p	Not Constrained
+M_cu2_p	Not Constrained
+R_SHSL1r (Dead)	0.0
+M_3ig3p_c	Not Constrained
+R_ADPRDP (Dead)	0.0
+R_CU2_bd_CopA (Dead)	0.0
+M_gthrd_c	Not Constrained
+M_murein3p3p_p	Not Constrained
+R_GLYC3Pabc (Dead)	0.0
+M_5aop_c	Not Constrained
+R_XYLK2 (Dead)	0.0
+R_LGTHL (Dead)	0.0
+M_murein4px4p_p	Not Constrained
+R_ACGAMT (Dead)	0.0
+R_PGSA141 (Dead)	0.0
+M_pgp181_c	Not Constrained
+M_fadh2_c	Not Constrained
+R_HDCAtex (Dead)	0.0
+M_dutp_c	Not Constrained
+M_pgp181_p	Not Constrained
+M_prfp_c	Not Constrained
+M_succ_c	Not Constrained
+M_gal_c	Not Constrained
+M_gal_e	Not Constrained
+R_H2O2tex (Dead)	0.0
+R_AACPS1 (Dead)	0.0
+R_O16A4COLIPAabctex (Dead)	0.0
+R_RBP4E (Dead)	0.0
+R_NTPP10 (Dead)	0.0
+R_FLVR (Dead)	0.0
+M_zn2_e	Not Constrained
+M_34hpp_c	Not Constrained
+M_zn2_c	Not Constrained
+M_zn2_p	Not Constrained
+R_GAMtex (Dead)	0.0
+R_MALDt2_2tex (Dead)	0.0
+M_1hdecg3p_c	Not Constrained
+M_iletrna_c	Not Constrained
+R_H2tex (Dead)	0.0
+R_SEAHCYSHYD (Dead)	0.0
+R_DAPtex (Dead)	0.0
+R_METSOX2abcpp (Dead)	0.0
+R_PGPP120 (Dead)	0.0
+R_NTD1 (Dead)	0.0
+R_NTRLASE3 (Dead)	0.0
+R_SERTRS2 (Dead)	0.0
+R_UBQBM (Dead)	0.0
+M_hco3_c	Not Constrained
+M_dha_c	Not Constrained
+R_ALCD2y (Dead)	0.0
+M_cdpdhdec9eg_c	Not Constrained
+M_sl26da_c	Not Constrained
+R_TREptspp (Dead)	0.0
+M_metsox_S_L_c	Not Constrained
+M_23dhmp_c	Not Constrained
+M_asptrna_c	Not Constrained
+M_dhpmp_c	Not Constrained
+R_ANHMK (Dead)	0.0
+M_dcaACP_c	Not Constrained
+R_DHNPTE (Dead)	0.0
+R_PSD141 (Dead)	0.0
+M_2oph_c	Not Constrained
+R_GLYC2Ptex (Dead)	0.0
+M_val_L_c	Not Constrained
+R_G3PGabcpp (Dead)	0.0
+M_2ddg6p_c	Not Constrained
+M_murein5p4p_p	Not Constrained
+R_PHEMEabcpp (Dead)	0.0
+M_tpalm2eACP_c	Not Constrained
+R_ACMUMptspp (Dead)	0.0
+M_pram_c	Not Constrained
+R_3PEPTabcpp (Dead)	0.0
+M_histrna_c	Not Constrained
+R_NODOx (Dead)	0.0
+M_pro_L_e	Not Constrained
+M_pro_L_c	Not Constrained
+M_ppgpp_c	Not Constrained
+R_UM4PCP (Dead)	0.0
+R_UREAtpp (Dead)	0.0
+M_dgdp_c	Not Constrained
+R_CCGS (Dead)	0.0
+M_ocACP_c	Not Constrained
+R_PGPP141pp (Dead)	0.0
+R_CLPNS140pp (Dead)	0.0
+M_pro_L_p	Not Constrained
+M_dcamp_c	Not Constrained
+M_chor_c	Not Constrained
+M_sucsal_c	Not Constrained
+M_alaala_p	Not Constrained
+R_K2L4Aabctex (Dead)	0.0
+R_CHTNABCt (Dead)	0.0
+M_asn_L_c	Not Constrained
+M_2dda7p_c	Not Constrained
+M_alaala_c	Not Constrained
+R_NTPP11 (Dead)	0.0
+M_5apru_c	Not Constrained
+R_ACALDtpp (Dead)	0.0
+R_FUCtex (Dead)	0.0
+R_ADNtex (Dead)	0.0
+R_PGP141abcpp (Dead)	0.0
+R_CHTNDA2 (Dead)	0.0
+M_trnaile_c	Not Constrained
+R_GP4GH (Dead)	0.0
+R_G3PCtex (Dead)	0.0
+M_met_L_c	Not Constrained
+R_THBPTD (Dead)	0.0
+M_6hmhpt_c	Not Constrained
+M_h2o2_c	Not Constrained
+R_NO3tex (Dead)	0.0
+M_agm_c	Not Constrained
+M_dhf_c	Not Constrained
+M_ppbng_c	Not Constrained
+M_uamr_c	Not Constrained
+M_prlp_c	Not Constrained
+R_DTARTD (Dead)	0.0
+R_ACM6PH (Dead)	0.0
+M_q8_c	Not Constrained
+M_uama_c	Not Constrained
+M_dkdepiins_c	Not Constrained
+M_4adcho_c	Not Constrained
+R_CDGR (Dead)	0.0
+M_dump_c	Not Constrained
+M_phe_L_c	Not Constrained
+M_gam1p_c	Not Constrained
+R_NITL5 (Dead)	0.0
+M_6pddgluc_c	Not Constrained
+M_tre_p	Not Constrained
+R_LIPAabcpp (Dead)	0.0
+R_SELGTHR3 (Dead)	0.0
+M_uaccg_c	Not Constrained
+M_3psme_c	Not Constrained
+M_trnacys_c	Not Constrained
+M_dhnpt_c	Not Constrained
+M_tre_e	Not Constrained
+M_aicar_c	Not Constrained
+R_NTD4 (Dead)	0.0
+R_FRUtex (Dead)	0.0
+R_SLCYSS (Dead)	0.0
+M_pa160_c	Not Constrained
+R_TTDCAtex (Dead)	0.0
+M_trnahis_c	Not Constrained
+R_DAGK141 (Dead)	0.0
+R_CYSDtex (Dead)	0.0
+R_PPTHpp (Dead)	0.0
+M_h2mb4p_c	Not Constrained
+R_G3PAT120 (Dead)	0.0
+M_xmp_c	Not Constrained
+M_tyr_L_c	Not Constrained
+M_gtp_c	Not Constrained
+M_so3_c	Not Constrained
+M_so3_e	Not Constrained
+M_so3_p	Not Constrained
+M_s7p_c	Not Constrained
+M_eig3p_c	Not Constrained
+M_asp_L_p	Not Constrained
+M_sufbcd_2fe2s_c	Not Constrained
+M_grxrd_c	Not Constrained
+M_acg5sa_c	Not Constrained
+M_lipopb_c	Not Constrained
+M_glu1sa_c	Not Constrained
+M_nh4_p	Not Constrained
+R_G2PP (Dead)	0.0
+R_SPMDabcpp (Dead)	0.0
+M_fe2_c	Not Constrained
+M_fe2_e	Not Constrained
+M_nh4_e	Not Constrained
+M_nadph_c	Not Constrained
+M_nh4_c	Not Constrained
+R_DASYN180 (Dead)	0.0
+M_fe2_p	Not Constrained
+M_2p4c2me_c	Not Constrained
+R_NO3abcpp (Dead)	0.0
+M_r5p_c	Not Constrained
+M_6pgc_c	Not Constrained
+R_4HTHRS (Dead)	0.0
+R_Bztpp (Dead)	0.0
+M_actACP_c	Not Constrained
+R_PSSA140 (Dead)	0.0
+M_pimACP_c	Not Constrained
+R_GLYAT (Dead)	0.0
+M_o2_p	Not Constrained
+M_cdpdodec11eg_c	Not Constrained
+M_uamag_c	Not Constrained
+R_EAR180x (Dead)	0.0
+M_ACP_c	Not Constrained
+R_GLYOX3 (Dead)	0.0
+M_5mdru1p_c	Not Constrained
+R_FRUptspp (Dead)	0.0
+R_AGPAT140 (Dead)	0.0
+R_G3PAT180 (Dead)	0.0
+M_ser_L_c	Not Constrained
+M_hom_L_c	Not Constrained
+M_indole_c	Not Constrained
+M_opmeACP_c	Not Constrained
+M_itp_c	Not Constrained
+M_ps161_c	Not Constrained
+M_gly_c	Not Constrained
+R_FUCtpp (Dead)	0.0
+M_ala_B_c	Not Constrained
+M_glntrna_c	Not Constrained
+M_o2_e	Not Constrained
+M_o2_c	Not Constrained
+M_mlthf_c	Not Constrained
+R_LEUabcpp (Dead)	0.0
+M_gcald_c	Not Constrained
+R_PGP120abcpp (Dead)	0.0
+M_26dap_LL_c	Not Constrained
+R_G3PIabcpp (Dead)	0.0
+R_DASYN120 (Dead)	0.0
+M_pe161_c	Not Constrained
+M_pe161_p	Not Constrained
+R_FACOAE140 (Dead)	0.0
+R_G3PGtex (Dead)	0.0
+M_3hhexACP_c	Not Constrained
+R_12DGR180tipp (Dead)	0.0
+M_nmn_c	Not Constrained
+R_HXPRT (Dead)	0.0
+R_CLPNS180pp (Dead)	0.0
+M_4hbz_c	Not Constrained
+R_PG140abcpp (Dead)	0.0
+R_ACCOAL2r (Dead)	0.0
+M_2fe2s_c	Not Constrained
+M_ncam_c	Not Constrained
+M_uaagmda_c	Not Constrained
+R_PGPP140 (Dead)	0.0
+R_F2NAPPUDC (Dead)	0.0
+M_glu_L_c	Not Constrained
+M_udpglcur_c	Not Constrained
+R_MALDt2_2pp (Dead)	0.0
+M_gmp_c	Not Constrained
+M_frmd_c	Not Constrained
+R_ATHRDHr (Dead)	0.0
+M_glu_L_p	Not Constrained
+M_murein5px4px4p_p	Not Constrained
+M_glu_L_e	Not Constrained
+M_epmeACP_c	Not Constrained
+M_pg160_c	Not Constrained
+M_pser_L_c	Not Constrained
+R_MLTGY2pp (Dead)	0.0
+M_ahcys_c	Not Constrained
+M_tdeACP_c	Not Constrained
+M_orot5p_c	Not Constrained
+M_3mop_c	Not Constrained
+R_FACOAE80 (Dead)	0.0
+M_hemeO_c	Not Constrained
+M_pg160_p	Not Constrained
+R_NODOy (Dead)	0.0
+M_fum_c	Not Constrained
+M_t3c9palmeACP_c	Not Constrained
+M_palmACP_c	Not Constrained
+R_THRtex (Dead)	0.0
+M_t3c11vaceACP_c	Not Constrained
+R_ALLTNr (Dead)	0.0
+R_ACALDtex (Dead)	0.0
+M_2ahbut_c	Not Constrained
+M_dextrin_e	Not Constrained
+R_SELGTHR (Dead)	0.0
+R_LSERDHr (Dead)	0.0
+R_UM3PL (Dead)	0.0
+R_RFAMPtpp (Dead)	0.0
+M_pep_c	Not Constrained
+M_mettrna_c	Not Constrained
+R_MDDEP4pp (Dead)	0.0
+M_thr_L_c	Not Constrained
+M_glu5p_c	Not Constrained
+R_GDDMR (Dead)	0.0
+R_METDtex (Dead)	0.0
+R_SPMDtex (Dead)	0.0
+M_gam_e	Not Constrained
+M_26dap_M_c	Not Constrained
+R_NTD11 (Dead)	0.0
+R_FACOAE100 (Dead)	0.0
+M_dcdp_c	Not Constrained
+M_ctp_c	Not Constrained
+M_cyst_L_c	Not Constrained
+M_prpp_c	Not Constrained
+M_clpn161_p	Not Constrained
+M_fe3_e	Not Constrained
+R_HEPT1 (Dead)	0.0
+R_PGLYCP (Dead)	0.0
+M_fe3_c	Not Constrained
+M_2ombzl_c	Not Constrained
+M_toct2eACP_c	Not Constrained
+M_murein5p5p5p_p	Not Constrained
+M_fe3_p	Not Constrained
+R_PE180abcpp (Dead)	0.0
+R_ICITt_kt (Dead)	0.0
+M_pyr_e	Not Constrained
+R_SLNTtpp (Dead)	0.0
+M_pyr_c	Not Constrained
+M_asp_L_c	Not Constrained
+M_asp_L_e	Not Constrained
+M_h_p	Not Constrained
+R_OTOTt2_2tex (Dead)	0.0
+M_glu5sa_c	Not Constrained
+M_nac_c	Not Constrained
+M_grxox_c	Not Constrained
+R_TDSR1 (Dead)	0.0
+M_dmpp_c	Not Constrained
+R_AMPTASEPG (Dead)	0.0
+M_3ocmrs7eACP_c	Not Constrained
+M_glutrna_c	Not Constrained
+M_oaa_c	Not Constrained
+M_trnaval_c	Not Constrained
+M_h_c	Not Constrained
+M_trnaglu_c	Not Constrained
+M_h_e	Not Constrained
+R_METabcpp (Dead)	0.0
+M_osucc_c	Not Constrained
+M_flxso_c	Not Constrained
+R_PSD140 (Dead)	0.0
+R_COLIPAabctex (Dead)	0.0
+R_OCOAT1r (Dead)	0.0
+M_scl_c	Not Constrained
+M_dtdp_c	Not Constrained
+R_SERabcpp (Dead)	0.0
+M_pyam5p_c	Not Constrained
+R_MI1PP (Dead)	0.0
+M_pmeACP_c	Not Constrained
+M_imp_c	Not Constrained
+R_TSULtex (Dead)	0.0
+R_ETFDH (Dead)	0.0
+M_3ooctACP_c	Not Constrained
+M_hgmeACP_c	Not Constrained
+M_grdp_c	Not Constrained
+M_gdpmann_c	Not Constrained
+R_AACPS7 (Dead)	0.0
+M_pyr_p	Not Constrained
+R_2THZPSN2 (Dead)	0.0
+M_iscssh_c	Not Constrained
+M_s17bp_c	Not Constrained
+R_SOTA (Dead)	0.0
+R_GLYC3Pabcpp (Dead)	0.0
+R_AGPAT180 (Dead)	0.0
+R_FACOAL140t2pp (Dead)	0.0
+R_VALabcpp (Dead)	0.0
+R_SPODM (Dead)	0.0
+M_4ampm_c	Not Constrained
+R_FACOAL60t2pp (Dead)	0.0
+R_G3PCabcpp (Dead)	0.0
+R_12DGR120tipp (Dead)	0.0
+M_murein5p3p_p	Not Constrained
+M_1pyr5c_c	Not Constrained
+M_msa_c	Not Constrained
+M_cit_c	Not Constrained
+M_urcan_c	Not Constrained
+M_cit_e	Not Constrained
+M_pppg9_c	Not Constrained
+M_14aglucan_e	Not Constrained
+M_14aglucan_c	Not Constrained
+M_glytrna_c	Not Constrained
+M_dadp_c	Not Constrained
+M_14aglucan_p	Not Constrained
+M_cit_p	Not Constrained
+M_trnatyr_c	Not Constrained
+R_VALtex (Dead)	0.0
+R_DAGK181 (Dead)	0.0
+R_CYStex (Dead)	0.0
+M_uacgam_c	Not Constrained
+R_PG180abcpp (Dead)	0.0
+M_pap_c	Not Constrained
+R_FACOAE181 (Dead)	0.0
+M_thmmp_c	Not Constrained
+R_PGSA120 (Dead)	0.0
+R_G3PSabcpp (Dead)	0.0
+M_g6p_c	Not Constrained
+R_4PCPpp (Dead)	0.0
+M_mobd_e	Not Constrained
+M_h2o_p	Not Constrained
+M_trnaasp_c	Not Constrained
+M_mobd_c	Not Constrained
+M_murein5px4p_p	Not Constrained
+M_23dhmb_c	Not Constrained
+R_DATPHs (Dead)	0.0
+M_fprica_c	Not Constrained
+R_CHTBSptspp (Dead)	0.0
+M_man6p_c	Not Constrained
+R_HCO3tex (Dead)	0.0
+M_atp_c	Not Constrained
+M_cystrna_c	Not Constrained
+M_4mpetz_c	Not Constrained
+M_trnagly_c	Not Constrained
+R_PA180abcpp (Dead)	0.0
+R_DOXRBCNtpp (Dead)	0.0
+M_h2o_e	Not Constrained
+M_co2_e	Not Constrained
+R_PSD120 (Dead)	0.0
+M_h2o_c	Not Constrained
+M_btn_c	Not Constrained
+M_co2_c	Not Constrained
+M_cmp_c	Not Constrained
+M_2me4p_c	Not Constrained
+R_PSSA180 (Dead)	0.0
+M_co2_p	Not Constrained
+R_PGSA180 (Dead)	0.0
+M_cdpdhdecg_c	Not Constrained
+R_PSD180 (Dead)	0.0
+R_AACOAR (Dead)	0.0
+M_murein5p5p_p	Not Constrained
+R_OCDCEAtexi (Dead)	0.0
+M_pa161_c	Not Constrained
+R_MLTGY4pp (Dead)	0.0
+M_q8h2_c	Not Constrained
+M_pi_e	Not Constrained
+M_murein4p3p_p	Not Constrained
+M_pi_p	Not Constrained
+R_ARD (Dead)	0.0
+M_trnaser_c	Not Constrained
+M_core_kdo2lip6_XF_c	Not Constrained
+R_G3PEtex (Dead)	0.0
+M_ogmeACP_c	Not Constrained
+M_g3p_c	Not Constrained
+M_pi_c	Not Constrained
+M_achms_c	Not Constrained
+M_coa_c	Not Constrained
+R_GTHRDHpp (Dead)	0.0
+M_2ogm_c	Not Constrained
+M_amob_c	Not Constrained
+R_NTRLASE2 (Dead)	0.0
+R_HCO3abcpp (Dead)	0.0
+M_5fthf_c	Not Constrained
+M_3hcpalm9eACP_c	Not Constrained
+R_NACtpp (Dead)	0.0
+R_FACOAL141t2pp (Dead)	0.0
+R_FACOAL161t2pp (Dead)	0.0
+R_12DGR181tipp (Dead)	0.0
+R_PHEMEtiex (Dead)	0.0
+M_lystrna_c	Not Constrained
+R_12DGR161tipp (Dead)	0.0
+R_12DGR141tipp (Dead)	0.0
+M_tyrtrna_c	Not Constrained
+M_ribflv_c	Not Constrained
+M_4ppcys_c	Not Constrained
+M_octdp_c	Not Constrained
+M_4izp_c	Not Constrained
+M_4abz_c	Not Constrained
+R_AACPS9 (Dead)	0.0
+R_FACOAL181t2pp (Dead)	0.0
+R_PFK_2 (Dead)	0.0
+M_mobd_p	Not Constrained
+M_3omrsACP_c	Not Constrained
+M_cbasp_c	Not Constrained
+M_pgp161_c	Not Constrained
+M_udpgalur_c	Not Constrained
+R_PA140abcpp (Dead)	0.0
+M_glyc_p	Not Constrained
+M_murein3px3p_p	Not Constrained
+M_kdolipid4_XF_c	Not Constrained
+M_spmd_c	Not Constrained
+M_udp_c	Not Constrained
+M_arg_L_c	Not Constrained
+M_fmn_c	Not Constrained
+M_arg_L_e	Not Constrained
+M_pgp161_p	Not Constrained
+M_glyc_c	Not Constrained
+M_glyc_e	Not Constrained
+M_pant_R_c	Not Constrained
+M_arg_L_p	Not Constrained
+M_so4_e	Not Constrained
+R_PHEMEAS (Dead)	0.0
+M_so4_c	Not Constrained
+M_so4_p	Not Constrained
+M_h2s_c	Not Constrained
+R_HYXNtex (Dead)	0.0
+M_dxyl5p_c	Not Constrained
+R_PGPP141 (Dead)	0.0
+M_ade_p	Not Constrained
+M_dhgly_c	Not Constrained
+M_fdp_c	Not Constrained
+M_3dhsk_c	Not Constrained
+M_ohpb_c	Not Constrained
+M_ckdo_c	Not Constrained
+R_TSULabcpp (Dead)	0.0
+M_iscs_c	Not Constrained
+M_trptrna_c	Not Constrained
+M_fru_e	Not Constrained
+M_tmrs2eACP_c	Not Constrained
+M_ade_e	Not Constrained
+R_TTRCYCtpp (Dead)	0.0
+M_ade_c	Not Constrained
+R_OCDCAtexi (Dead)	0.0
+M_4per_c	Not Constrained
+M_2mecdp_c	Not Constrained
+R_G3PStex (Dead)	0.0
+R_PA120abcpp (Dead)	0.0
+R_MSAR (Dead)	0.0
+M_fgam_c	Not Constrained
+M_2cpr5p_c	Not Constrained
+M_t3c7mrseACP_c	Not Constrained
+M_ametam_c	Not Constrained
+M_2mahmp_c	Not Constrained
+R_AGM4Pt2pp (Dead)	0.0
+R_DSBCGT (Dead)	0.0
+R_FMETTRS (Dead)	0.0
+R_CYSSADS (Dead)	0.0
+R_FACOAL80t2pp (Dead)	0.0
+M_ddcaACP_c	Not Constrained
+M_accoa_c	Not Constrained
+R_GLYCLTt4pp (Dead)	0.0
+R_DAGK140 (Dead)	0.0
+M_man_e	Not Constrained
+R_G3PAT141 (Dead)	0.0
+M_man_p	Not Constrained
+M_6hmhptpp_c	Not Constrained
+M_uri_c	Not Constrained
+M_cbp_c	Not Constrained
+M_skm5p_c	Not Constrained
+M_kdo2lipidA_XF_c	Not Constrained
+R_AGM4PH (Dead)	0.0
+M_trdox_c	Not Constrained
+R_PGPP180pp (Dead)	0.0
+R_NTD3 (Dead)	0.0
+R_GUAtex (Dead)	0.0
+M_phpyr_c	Not Constrained
+R_THRabcpp (Dead)	0.0
+M_hcys_L_c	Not Constrained
+M_cl_p	Not Constrained
+M_3opalmACP_c	Not Constrained
+R_AACPS6 (Dead)	0.0
+R_GLYALDtex (Dead)	0.0
+M_cl_e	Not Constrained
+M_phthr_c	Not Constrained
+M_thdp_c	Not Constrained
+R_INDOLEt2pp (Dead)	0.0
+M_clpn160_p	Not Constrained
+M_acgam_p	Not Constrained
+M_thex2eACP_c	Not Constrained
+M_dscl_c	Not Constrained
+M_paps_c	Not Constrained
+M_dgtp_c	Not Constrained
+M_pdx5p_c	Not Constrained
+R_FACOAE160 (Dead)	0.0
+R_AKGt2rpp (Dead)	0.0
+R_GTHPe (Dead)	0.0
+M_kdo2lipid4HL_XF_c	Not Constrained
+R_DASYN140 (Dead)	0.0
+R_LIPAabctex (Dead)	0.0
+M_dtdp4d6dg_c	Not Constrained
+M_3ocddec5eACP_c	Not Constrained
+R_ILEabcpp (Dead)	0.0
+M_gln_L_c	Not Constrained
+M_gln_L_e	Not Constrained
+M_sufsesh_c	Not Constrained
+M_cl_c	Not Constrained
+M_gln_L_p	Not Constrained
+R_AGMt2pp (Dead)	0.0
+M_2pg_c	Not Constrained
+M_udpgal_c	Not Constrained
+M_gmeACP_c	Not Constrained
+M_inost_p	Not Constrained
+R_GLYOX (Dead)	0.0
+R_ThDPAT (Dead)	0.0
+M_sufbcd_4fe4s_c	Not Constrained
+R_NACtex (Dead)	0.0
+M_4abut_e	Not Constrained
+M_meoh_e	Not Constrained
+M_meoh_c	Not Constrained
+M_pg181_c	Not Constrained
+M_4abut_c	Not Constrained
+M_hpmeACP_c	Not Constrained
+M_4abut_p	Not Constrained
+M_meoh_p	Not Constrained
+M_pg181_p	Not Constrained
+M_tdec2eACP_c	Not Constrained
+M_2omph_c	Not Constrained
+R_PE140abcpp (Dead)	0.0
+M_dpcoa_c	Not Constrained
+M_k_p	Not Constrained
+M_23dhdp_c	Not Constrained
+M_5mta_c	Not Constrained
+M_thmpp_c	Not Constrained
+M_amp_c	Not Constrained
+M_sertrna_c	Not Constrained
+M_ahdt_c	Not Constrained
+R_MLTGY3pp (Dead)	0.0
+R_ULA4NFT (Dead)	0.0
+M_3odecACP_c	Not Constrained
+R_SERtex (Dead)	0.0
+M_gam6p_c	Not Constrained
+R_FACOAE141 (Dead)	0.0
+R_GLYC2Pabcpp (Dead)	0.0
+R_BHEXAMD (Dead)	0.0
+M_k_c	Not Constrained
+M_2obut_c	Not Constrained
+R_3OAS180 (Dead)	0.0
+M_k_e	Not Constrained
+M_ipdp_c	Not Constrained
+M_acACP_c	Not Constrained
+M_murein4px4px4p_p	Not Constrained
+R_AACPS3 (Dead)	0.0
+R_AGPAT120 (Dead)	0.0
+R_METtex (Dead)	0.0
+M_6pgl_c	Not Constrained
+M_acon_C_c	Not Constrained
+M_metsox_R_L_c	Not Constrained
+R_SPS (Dead)	0.0
+M_asntrna_c	Not Constrained
+M_dmlz_c	Not Constrained
+R_H2Stex (Dead)	0.0
+M_imacp_c	Not Constrained
+M_na1_e	Not Constrained
+M_na1_c	Not Constrained
+M_kdo_c	Not Constrained
+R_NTD12 (Dead)	0.0
+M_na1_p	Not Constrained
+M_cddec5eACP_c	Not Constrained
+M_4ppan_c	Not Constrained
+M_udp4kp_c	Not Constrained
+M_sl2a6o_c	Not Constrained
+M_dgmp_c	Not Constrained
+M_4r5au_c	Not Constrained
+M_succoa_c	Not Constrained
+R_Bztex (Dead)	0.0
+M_inost_e	Not Constrained
+M_inost_c	Not Constrained
+M_3hddecACP_c	Not Constrained
+M_5mthf_c	Not Constrained
+M_gar_c	Not Constrained
+M_3haACP_c	Not Constrained
+R_FACOAL180t2pp (Dead)	0.0
+M_urea_c	Not Constrained
+M_dann_c	Not Constrained
+M_3mob_c	Not Constrained
+R_12DGR160tipp (Dead)	0.0
+R_PA160abcpp (Dead)	0.0
+R_FACOAL100t2pp (Dead)	0.0
+R_NTD6 (Dead)	0.0
+M_3hcmrs7eACP_c	Not Constrained
+M_2dhp_c	Not Constrained
+M_adn_c	Not Constrained
+R_PE120abcpp (Dead)	0.0
+M_nad_c	Not Constrained
+R_CLPNS120pp (Dead)	0.0
+R_PSSA120 (Dead)	0.0
+R_UM4PL (Dead)	0.0
+M_3c2hmp_c	Not Constrained
+R_GUAtpp (Dead)	0.0
+M_lipidX_XF_c	Not Constrained
+M_5caiz_c	Not Constrained
+R_NMNtex (Dead)	0.0
+R_GLYCLTt4ex (Dead)	0.0
+M_forglu_c	Not Constrained
+M_u3aga_XF_c	Not Constrained
+M_trdrd_c	Not Constrained
+M_dtdprmn_c	Not Constrained
+R_CMPN (Dead)	0.0
+M_ara5p_c	Not Constrained
+R_HDCEAtexi (Dead)	0.0
+R_CYSabcpp (Dead)	0.0
+R_UACMAMO (Dead)	0.0
+M_ppi_c	Not Constrained
+M_cobalt2_c	Not Constrained
+M_cobalt2_e	Not Constrained
+M_cobalt2_p	Not Constrained
+M_3hpalmACP_c	Not Constrained
+M_cpppg3_c	Not Constrained
+M_butACP_c	Not Constrained
+R_AACPS8 (Dead)	0.0
+R_MSO3abcpp (Dead)	0.0
+R_PGP140abcpp (Dead)	0.0
+M_pphn_c	Not Constrained
+R_APCS (Dead)	0.0
+R_TTDCEAtexi (Dead)	0.0
+M_8aonn_c	Not Constrained
+R_BTNt2ipp (Dead)	0.0
+M_rib_D_p	Not Constrained
+R_HEPT3 (Dead)	0.0
+M_pppi_c	Not Constrained
+M_rib_D_c	Not Constrained
+M_rib_D_e	Not Constrained
+M_acglu_c	Not Constrained
+M_murein5px3p_p	Not Constrained
+R_AGM3PH (Dead)	0.0
+R_FUMt2_2tex (Dead)	0.0
+M_2ohph_c	Not Constrained
+M_pe181_c	Not Constrained
+M_dhor_S_c	Not Constrained
+M_thf_c	Not Constrained
+M_pe181_p	Not Constrained
+M_cdec3eACP_c	Not Constrained
+M_3hcvac11eACP_c	Not Constrained
+M_4c2me_c	Not Constrained
+R_METSOX1abcpp (Dead)	0.0
+M_skm_c	Not Constrained
+M_acser_c	Not Constrained
+R_MCITL2 (Dead)	0.0
+R_AGM3PApp (Dead)	0.0
+M_25aics_c	Not Constrained
+M_iasp_c	Not Constrained
+M_nadp_c	Not Constrained
+R_FACOAE60 (Dead)	0.0
+M_ru5p_D_c	Not Constrained
+M_ile_L_c	Not Constrained
+M_frdp_c	Not Constrained
+M_anth_c	Not Constrained
+R_DAGK160 (Dead)	0.0
+M_trnamet_c	Not Constrained
+M_ugmd_c	Not Constrained
+M_OLPS_XF_p	Not Constrained
+M_dudp_c	Not Constrained
+M_utp_c	Not Constrained
+R_BTNt2tex (Dead)	0.0
+M_OLPS_XF_c	Not Constrained
+R_PG120abcpp (Dead)	0.0
+M_dctp_c	Not Constrained
+R_ARD2 (Dead)	0.0
+M_4mop_c	Not Constrained
+R_NMNt7pp (Dead)	0.0
+M_dtmp_c	Not Constrained
+M_ca2_p	Not Constrained
+M_ca2_e	Not Constrained
+R_ILEtex (Dead)	0.0
+M_ca2_c	Not Constrained
+M_trnathr_c	Not Constrained
+M_mal_L_c	Not Constrained
+M_3ophb_c	Not Constrained
+R_AACPS5 (Dead)	0.0
+M_dtbt_c	Not Constrained
+M_db4p_c	Not Constrained
+M_murein4p4p_p	Not Constrained
+M_xyl_D_p	Not Constrained
+M_ala_D_p	Not Constrained
+M_xyl_D_c	Not Constrained
+M_sufbcd_c	Not Constrained
+M_xyl_D_e	Not Constrained
+R_GLYt2pp (Dead)	0.0
+M_u23ga_XF_c	Not Constrained
+M_ala_D_c	Not Constrained
+M_pgp160_c	Not Constrained
+R_EX_s_e (Dead)	0.0
+M_dttp_c	Not Constrained
+R_4PEPTabcpp (Dead)	0.0
+M_egmeACP_c	Not Constrained
+M_methf_c	Not Constrained
+R_3OAR180 (Dead)	0.0
+R_METDabcpp (Dead)	0.0
+M_pgp160_p	Not Constrained
+M_phom_c	Not Constrained
+M_alac_S_c	Not Constrained
+R_NTD9 (Dead)	0.0
+M_trp_L_c	Not Constrained
+R_PTRCtex (Dead)	0.0
+R_LACZpp (Dead)	0.0
+M_murein3px4p_p	Not Constrained
+R_3HPPtex (Dead)	0.0
+R_NOtpp (Dead)	0.0
+R_AGMH (Dead)	0.0
+R_PGSA140 (Dead)	0.0
+M_3oddecACP_c	Not Constrained
+R_DMPO_LACCASE (Dead)	0.0
+M_uppg3_c	Not Constrained
+R_SUCCt3pp (Dead)	0.0
+M_dcmp_c	Not Constrained
+R_FACOAL120t2pp (Dead)	0.0
+R_FEENTERtpp (Dead)	0.0
+R_CYSDabcpp (Dead)	0.0
+R_DDGLK (Dead)	0.0
+M_thrtrna_c	Not Constrained
+M_sufbcd_2fe2s2_c	Not Constrained
+M_ugmda_c	Not Constrained
+R_FACOAL160t2pp (Dead)	0.0
+M_xylu_D_c	Not Constrained
+R_12DGR140tipp (Dead)	0.0
+R_G3PEabcpp (Dead)	0.0
+R_UDPGDC (Dead)	0.0
+M_3ocvac11eACP_c	Not Constrained
+M_Ncbmpts_c	Not Constrained
+R_DAPabcpp (Dead)	0.0
+R_GUAPRT (Dead)	0.0
+M_datp_c	Not Constrained
+R_AGM4PApp (Dead)	0.0
+R_ACMAMUT (Dead)	0.0
+M_dkglc_c	Not Constrained
+M_citr_L_c	Not Constrained
+M_25drapp_c	Not Constrained
+M_gdptp_c	Not Constrained
+R_NTD10 (Dead)	0.0
+M_argtrna_c	Not Constrained
+M_sheme_c	Not Constrained
+M_2kmb_c	Not Constrained
+R_AACPS2 (Dead)	0.0
+M_dnad_c	Not Constrained
+M_pnto_R_c	Not Constrained
+R_GLYtex (Dead)	0.0
+R_METSOX1tex (Dead)	0.0
+M_glc_D_p	Not Constrained
+M_2fe1s_c	Not Constrained
+M_e4p_c	Not Constrained
+M_glyc3p_c	Not Constrained
+R_THRA2r (Dead)	0.0
+M_glc_D_c	Not Constrained
+M_glc_D_e	Not Constrained
+M_phetrna_c	Not Constrained
+R_ETOHtrpp (Dead)	0.0
+M_man1p_c	Not Constrained
+M_flxr_c	Not Constrained
+M_f6p_c	Not Constrained
+R_NH3c (Dead)	0.0
+R_PSSA141 (Dead)	0.0
+M_nicrnt_c	Not Constrained
+R_AKGt2rtex (Dead)	0.0
+M_13dpg_c	Not Constrained
+M_icit_c	Not Constrained
+M_trnaarg_c	Not Constrained
+R_DSBAO1 (Dead)	0.0
+M_dkmpp_c	Not Constrained
+M_dad_5_c	Not Constrained
+M_mn2_e	Not Constrained
+M_mn2_c	Not Constrained
+M_dglca_c	Not Constrained
+M_fpram_c	Not Constrained
+M_lipidA_XF_c	Not Constrained
+R_St (Dead)	0.0
+M_mn2_p	Not Constrained
+M_t3c5ddeceACP_c	Not Constrained
+M_histd_c	Not Constrained
+R_FUMt2_2pp (Dead)	0.0
+M_quln_c	Not Constrained
+R_H2Stpp (Dead)	0.0
+M_2ippm_c	Not Constrained
+R_AP5AH (Dead)	0.0
+R_GLYC3Ptex (Dead)	0.0
+M_nadh_c	Not Constrained
+M_trnaphe_c	Not Constrained
+M_damp_c	Not Constrained
+M_3php_c	Not Constrained
+M_aspsa_c	Not Constrained
+M_2ommbl_c	Not Constrained
+R_3HAD180 (Dead)	0.0
+M_for_e	Not Constrained
+M_ps181_c	Not Constrained
+M_uagmda_c	Not Constrained
+M_gdp_c	Not Constrained
+M_for_c	Not Constrained
+M_udpg_c	Not Constrained
+R_PG141abcpp (Dead)	0.0
+R_LEUtex (Dead)	0.0
+M_malcoa_c	Not Constrained
+M_1hdec9eg3p_c	Not Constrained
+M_1odec11eg3p_c	Not Constrained
+R_PGP180abcpp (Dead)	0.0
+M_acg5p_c	Not Constrained
+M_udcpp_c	Not Constrained
+M_ala_L_p	Not Constrained
+M_udcpp_p	Not Constrained
+M_fad_c	Not Constrained
+R_OROTt2_2pp (Dead)	0.0
+M_4pasp_c	Not Constrained
+M_dhpt_c	Not Constrained
+R_OAAtex (Dead)	0.0
+M_ala_L_c	Not Constrained
+M_trnaala_c	Not Constrained
+M_ala_L_e	Not Constrained
+M_5aizc_c	Not Constrained
+M_gal1p_c	Not Constrained
+R_HYXNtpp (Dead)	0.0
+R_ACACT1r (Dead)	0.0
+M_lys_L_c	Not Constrained
+M_lys_L_e	Not Constrained
+R_DAGK120 (Dead)	0.0
+R_OAAt2_2pp (Dead)	0.0
+M_akg_c	Not Constrained
+R_NOtex (Dead)	0.0
+R_PGPP140pp (Dead)	0.0
+M_protrna_c	Not Constrained
+M_3c4mop_c	Not Constrained
+R_FACOAE120 (Dead)	0.0
+M_alatrna_c	Not Constrained
+R_ALR2 (Dead)	0.0
+R_NTRLASE (Dead)	0.0
+R_3HPPtpp (Dead)	0.0
+R_NTD5 (Dead)	0.0
+R_ASR (Dead)	0.0
+R_FUSAtpp (Dead)	0.0
+R_QUIN2tex (Dead)	0.0
+R_RZ5PP (Dead)	0.0
+R_SELGTHR2 (Dead)	0.0
+M_myrsACP_c	Not Constrained
+R_PGPP120pp (Dead)	0.0
+M_acgam6p_c	Not Constrained
+R_FEENTERtex (Dead)	0.0
+M_clpn181_p	Not Constrained
+M_leu_L_c	Not Constrained
+M_kdo2lipid4_XF_c	Not Constrained
+M_idp_c	Not Constrained
+R_NITL4 (Dead)	0.0
+M_pran_c	Not Constrained
+M_xu5p_D_c	Not Constrained
+M_malACP_c	Not Constrained
+M_dhap_c	Not Constrained
+M_ap4a_c	Not Constrained
+M_hdeACP_c	Not Constrained
+R_PE141abcpp (Dead)	0.0
+R_QUINDH (Dead)	0.0
+M_ura_c	Not Constrained
+M_ura_e	Not Constrained
+M_ura_p	Not Constrained
+R_CD2t3pp (Dead)	0.0
+M_trnapro_c	Not Constrained
+M_ptrc_c	Not Constrained
+M_3ocpalm9eACP_c	Not Constrained
+R_GLYALDtpp (Dead)	0.0
+M_3hmrsACP_c	Not Constrained
+M_ptrc_p	Not Constrained
