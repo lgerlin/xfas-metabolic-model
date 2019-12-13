@@ -1,4 +1,4 @@
-FlexFlux version used: 2.2
+FlexFlux version used: [2.2.1](http://lipm-bioinfo.toulouse.inra.fr/flexflux/download/FlexFlux2.2.1.zip)
 
 See http://lipm-bioinfo.toulouse.inra.fr/flexflux/documentation.html to download and install the software and for more information.
 
