@@ -1,4 +1,8 @@
-This repository contains scripts to perform simulations on Xylella fastidiosa metabolic model.
+This repository contains scripts to perform simulations on Xylella fastidiosa metabolic model (Xfm1158).
 
-The flexflux folder contains the commands and constraints to perform the main analysis (FBA, FVA, KO, efficiency) presented
-in the associated paper on both Xylella fastidiosa and Ralstonia solanacearum.# xfas-metabolic-model
+The flexflux folder contains the commands and constraints to perform the analysis (FBA, FVA, KO, efficiency) presented
+in the associated paper on both Xylella fastidiosa and Ralstonia solanacearum.
+
+The file XF_network.sbml is the metabolic model Xfm1158 in SBML format.
+
+# xfas-metabolic-model
