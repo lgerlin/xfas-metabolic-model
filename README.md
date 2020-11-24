@@ -5,4 +5,6 @@ in the associated paper on both Xylella fastidiosa and Ralstonia solanacearum.
 
 The file XF_network.sbml is the metabolic model Xfm1158 in SBML format.
 
+The file XFCFBP8418.fasta contains the sequences used for metabolic network reconstruction.
+
 # xfas-metabolic-model
